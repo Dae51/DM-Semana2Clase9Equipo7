@@ -9,3 +9,4 @@ A new Flutter project.
 - Josué Raúl Portillo Rivera
 - Javier Alejandro Paniagua Morán
 - José Napoleón Díaz Nuila 
+- Jhonnatan Ezequiel Peñate Serrano
